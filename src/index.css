@@ -1,0 +1,36 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* .listItem :hover{
+  /* filter: drop-shadow(0 0 0.1px); */
+ */
+.Link{
+  text-decoration: none;
+}
+.Link{
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: 5px; /* Width of the scrollbar */
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff00; /* Background of the scrollbar track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #222222; /* Color of the scrollbar thumb */
+  border-radius: 6px; /* Rounded corners */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Color when hovered */
+}
+
+

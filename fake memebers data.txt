@@ -1,0 +1,66 @@
+{
+        "id": "cdea",
+        "avatar": "./avatar_1.png",
+        "name": "John Doe",
+        "designation": "Software Engineer"
+    },
+    {
+        "id": "d866",
+        "avatar": "./avatar_4.png",
+        "name": "Jane Smith",
+        "designation": "Product Manager"
+    },
+    {
+        "id": "f160",
+        "avatar": "./avatar_2.png",
+        "name": "Alice Johnson",
+        "designation": "UX Designer"
+    },
+    {
+        "id": "6541",
+        "avatar": "./avatar_3.png",
+        "name": "Bob Brown",
+        "designation": "Data Scientist"
+    },
+    {
+        "id": "b4e3",
+        "avatar": "./avatar_1.png",
+        "name": "Charlie Davis",
+        "designation": "DevOps Engineer"
+    },
+    {
+        "id": "4dd6",
+        "avatar": "./avatar_2.png",
+        "name": "Diana Green",
+        "designation": "QA Engineer"
+    },
+    {
+        "id": "e189",
+        "avatar": "./avatar_3.png",
+        "name": "Ethan White",
+        "designation": "Business Analyst"
+    },
+    {
+        "id": "121a",
+        "avatar": "./avatar_4.png",
+        "name": "Fiona Black",
+        "designation": "Marketing Specialist"
+    },
+    {
+        "id": "567c",
+        "avatar": "./avatar_1.png",
+        "name": "George Harris",
+        "designation": "Technical Writer"
+    },
+    {
+        "id": "5de7",
+        "avatar": "./avatar_2.png",
+        "name": "Helen Walker",
+        "designation": "Project Manager"
+    },
+    {
+        "id": "115b",
+        "avatar": "/src/assets/avatar_2.png",
+        "name": "ad",
+        "designation": "asd"
+    }
